@@ -42,6 +42,22 @@ The analysis reveals usage patterns, identifies peak demand periods, highlights 
 - Seaborn
 - NumPy
 
+## Installation
+
+1. Clone the repository and navigate to the project directory.
+
+2. Create and activate a virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # On macOS/Linux
+venv\Scripts\activate     # On Windows
+```
+
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
 ## Data Source
 
 Data files required:
