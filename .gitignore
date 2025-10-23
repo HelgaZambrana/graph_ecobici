@@ -1,0 +1,14 @@
+venv/
+
+# Archivos de datos
+badata_ecobici_recorridos_realizados_2024.csv
+nuevas-estaciones-bicicletas-publicas.csv
+
+# Archivos de sistema
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
