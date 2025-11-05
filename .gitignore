@@ -1,8 +1,12 @@
+# Entorno virtual
 venv/
 
-# Archivos de datos
-badata_ecobici_recorridos_realizados_2024.csv
-nuevas-estaciones-bicicletas-publicas.csv
+# Datos
+data/
+
+# Archivos de referencia local (no subir)
+graph_theory.ipynb
+filtrar_usuario.py
 
 # Archivos de sistema
 .DS_Store
@@ -12,3 +16,6 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 .pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
